@@ -33,10 +33,14 @@ dependencies[] = file
 ; Contributed modules
 ; ------------------------------------------------------------------------------
 dependencies[] = admin_menu
+dependencies[] = admin_views
 dependencies[] = adminimal_admin_menu
 dependencies[] = backup_migrate
 dependencies[] = devel
+dependencies[] = captcha
+dependencies[] = recaptcha
 dependencies[] = ckeditor
+dependencies[] = context
 dependencies[] = ctools
 dependencies[] = views
 dependencies[] = views_ui
@@ -47,6 +51,11 @@ dependencies[] = globalredirect
 dependencies[] = pathauto
 dependencies[] = transliteration
 dependencies[] = libraries
+dependencies[] = metatag
+dependencies[] = redirect
+dependencies[] = views_bulk_operations
+dependencies[] = webform
 dependencies[] = plupload
 dependencies[] = rules
 dependencies[] = rules_admin
+dependencies[] = xmlsitemap

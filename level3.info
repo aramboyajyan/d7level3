@@ -42,6 +42,7 @@ dependencies[] = recaptcha
 dependencies[] = ckeditor
 dependencies[] = ckeditor_link
 dependencies[] = coffee
+dependencies[] = coffee_extras
 dependencies[] = context
 dependencies[] = ctools
 dependencies[] = views
